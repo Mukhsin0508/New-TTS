@@ -1,0 +1,2 @@
+"""Good morning everyone. My name’s Janet Parker and I’m the human resources manager. We’re very happy to welcome you to your new apprenticeship. I hope that the next six months will be a positive and enjoyable experience for you.
+I’d like to start with some general advice about being an apprentice. Most of you have very little or no experience of working for a big organisation and the first week or so may be quite challenging.""" 
